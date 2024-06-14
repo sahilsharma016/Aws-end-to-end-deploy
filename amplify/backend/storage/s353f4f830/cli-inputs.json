@@ -1,0 +1,14 @@
+{
+  "resourceName": "s353f4f830",
+  "policyUUID": "53f4f830",
+  "bucketName": "contactadd",
+  "storageAccess": "auth",
+  "guestAccess": [],
+  "authAccess": [
+    "CREATE_AND_UPDATE",
+    "READ",
+    "DELETE"
+  ],
+  "triggerFunction": "NONE",
+  "groupAccess": {}
+}

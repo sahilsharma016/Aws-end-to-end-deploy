@@ -1,0 +1,7 @@
+type Contact @model {
+  id: ID!
+  name: String!
+  email: String!
+  profilePicPath: String
+  
+}
