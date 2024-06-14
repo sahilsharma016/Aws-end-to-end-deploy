@@ -10,7 +10,7 @@ function HomePage() {
             <Row className="px-4 my-5">
                 <Col xs={4} sm={6}>
                     <Image
-                        src="docker.jpg"
+                        src="echo.png"
                         fluid
                     />
                 </Col>
